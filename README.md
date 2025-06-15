@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Muhammad Ali Rana
 
-<!--
-**Alirana24/Alirana24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder & CEO – ALI’S (SMC-PRIVATE) LIMITED**  
+📍 Burewala, Punjab, Pakistan | 🌍 Promoting Pakistani products globally
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💼 About Me
+
+I'm an **Economist** and **Entrepreneur** with a passion for global trade.  
+As CEO of **ALI’S (SMC-Pvt) Ltd**, I’m dedicated to connecting the world with quality Pakistani products through excellence, trust, and innovation.
+
+---
+
+### 🏢 Company Overview
+
+**ALI’S (SMC-PRIVATE) LIMITED** is a Pakistan-based export company bridging local excellence with global markets.  
+We specialize in the international trade of diverse **Pakistani products** with a commitment to quality and customer service.
+
+📧 Contact: **alis.limited@outlook.com**
+
+---
+
+### 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/muhammad-ali-rana-032496204)
+[![Wikipedia](https://img.shields.io/badge/Wikipedia-grey?logo=wikipedia)](https://en.wikipedia.org/wiki/User:Alirana24)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/Alirana24Ali)
+[![Google Business](https://img.shields.io/badge/Google-Profile-green?logo=google)](https://g.co/kgs/MctzSBY)
+
+---
+
+> “Building bridges from Pakistan to the world, one product at a time.” 🇵🇰🌍
