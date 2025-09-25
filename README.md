@@ -24,7 +24,7 @@ We specialize in the international trade of diverse **Pakistani products** with 
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/muhammad-ali-rana-032496204)
-[![Wikimedia Commons](https://img.shields.io/badge/Wikimedia%20Commons-grey?logo=wikimedia)](https://commons.wikimedia.org/wiki/User:Alirana24)
+[![Wikimedia Commons](https://img.shields.io/badge/Wikimedia%20Commons-grey?logo=wikimedia)](https://commons.wikimedia.org/wiki/User:M. Ali Rana)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/Alirana24Ali)
 [![Google Business](https://img.shields.io/badge/Google-Profile-green?logo=google)](https://g.co/kgs/MctzSBY)
 
